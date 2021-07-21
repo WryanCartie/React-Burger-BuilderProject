@@ -1,5 +1,5 @@
 import React from 'react'
 
-const auxillary = (props) => props.children
+const Auxillary = (props) => props.children
 
-export default auxillary
+export default Auxillary
